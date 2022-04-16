@@ -1,0 +1,11 @@
+body {
+    background: pink;
+}
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 100px solid lightblue;
+    padding: 10px;
+    float: none;
+    text-align: left;  
+}
